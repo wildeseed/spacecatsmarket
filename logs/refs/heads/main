@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 42c4f4fa65618b82087b8d8db58b39c865465712 max <max@maxs-MacBook-Pro.local> 1759213547 +0300	clone: from https://github.com/masonabor/spacecatsmarket.git
+42c4f4fa65618b82087b8d8db58b39c865465712 736a18b597571c2a2b18fa08e18fbeba0ac40de2 max <max@maxs-MacBook-Pro.local> 1759222357 +0300	commit: add controller, mapper, open-api, exception handler, custom validation annotation
+736a18b597571c2a2b18fa08e18fbeba0ac40de2 10f51229797c12e05b1fc4daf6e317156ebbad96 makszaranik <zaranikXZ@gmail.com> 1759586275 +0300	pull: Fast-forward
+10f51229797c12e05b1fc4daf6e317156ebbad96 8320f48cd9502be16803bb73e568f5c84d067ee4 makszaranik <zaranikXZ@gmail.com> 1759586808 +0300	commit: codestyle in Global exception handler

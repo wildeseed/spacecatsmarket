@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 42c4f4fa65618b82087b8d8db58b39c865465712 max <max@maxs-MacBook-Pro.local> 1759213547 +0300	clone: from https://github.com/masonabor/spacecatsmarket.git
+42c4f4fa65618b82087b8d8db58b39c865465712 736a18b597571c2a2b18fa08e18fbeba0ac40de2 max <max@maxs-MacBook-Pro.local> 1759222357 +0300	commit: add controller, mapper, open-api, exception handler, custom validation annotation
+736a18b597571c2a2b18fa08e18fbeba0ac40de2 10f51229797c12e05b1fc4daf6e317156ebbad96 makszaranik <zaranikXZ@gmail.com> 1759586275 +0300	pull: Fast-forward
+10f51229797c12e05b1fc4daf6e317156ebbad96 8320f48cd9502be16803bb73e568f5c84d067ee4 makszaranik <zaranikXZ@gmail.com> 1759586808 +0300	commit: codestyle in Global exception handler
+8320f48cd9502be16803bb73e568f5c84d067ee4 8320f48cd9502be16803bb73e568f5c84d067ee4 makszaranik <zaranikXZ@gmail.com> 1759587107 +0300	checkout: moving from main to PR
+8320f48cd9502be16803bb73e568f5c84d067ee4 8320f48cd9502be16803bb73e568f5c84d067ee4 makszaranik <zaranikXZ@gmail.com> 1759587563 +0300	checkout: moving from PR to main
+8320f48cd9502be16803bb73e568f5c84d067ee4 8320f48cd9502be16803bb73e568f5c84d067ee4 makszaranik <zaranikXZ@gmail.com> 1759587682 +0300	checkout: moving from main to PR
+8320f48cd9502be16803bb73e568f5c84d067ee4 8320f48cd9502be16803bb73e568f5c84d067ee4 makszaranik <zaranikXZ@gmail.com> 1759587844 +0300	checkout: moving from PR to main
+8320f48cd9502be16803bb73e568f5c84d067ee4 10f51229797c12e05b1fc4daf6e317156ebbad96 makszaranik <zaranikXZ@gmail.com> 1759587969 +0300	checkout: moving from main to lab-review
+10f51229797c12e05b1fc4daf6e317156ebbad96 8320f48cd9502be16803bb73e568f5c84d067ee4 makszaranik <zaranikXZ@gmail.com> 1759587982 +0300	checkout: moving from lab-review to main
+8320f48cd9502be16803bb73e568f5c84d067ee4 10f51229797c12e05b1fc4daf6e317156ebbad96 makszaranik <zaranikXZ@gmail.com> 1759587990 +0300	checkout: moving from main to lab-review
+10f51229797c12e05b1fc4daf6e317156ebbad96 8320f48cd9502be16803bb73e568f5c84d067ee4 makszaranik <zaranikXZ@gmail.com> 1759588033 +0300	checkout: moving from lab-review to main
+8320f48cd9502be16803bb73e568f5c84d067ee4 42c4f4fa65618b82087b8d8db58b39c865465712 makszaranik <zaranikXZ@gmail.com> 1759588066 +0300	checkout: moving from main to PR
+42c4f4fa65618b82087b8d8db58b39c865465712 42c4f4fa65618b82087b8d8db58b39c865465712 makszaranik <zaranikXZ@gmail.com> 1759588205 +0300	checkout: moving from PR to PR
+42c4f4fa65618b82087b8d8db58b39c865465712 be358d58205d56ae17461f3372968ba6daf226b6 makszaranik <zaranikXZ@gmail.com> 1759588257 +0300	checkout: moving from PR to pull-request
+be358d58205d56ae17461f3372968ba6daf226b6 8320f48cd9502be16803bb73e568f5c84d067ee4 makszaranik <zaranikXZ@gmail.com> 1759588290 +0300	checkout: moving from pull-request to main
+8320f48cd9502be16803bb73e568f5c84d067ee4 be358d58205d56ae17461f3372968ba6daf226b6 makszaranik <zaranikXZ@gmail.com> 1759588296 +0300	checkout: moving from main to pull-request
+be358d58205d56ae17461f3372968ba6daf226b6 8320f48cd9502be16803bb73e568f5c84d067ee4 makszaranik <zaranikXZ@gmail.com> 1759588453 +0300	checkout: moving from pull-request to main

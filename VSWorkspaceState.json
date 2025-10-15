@@ -1,0 +1,21 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\edu",
+    "\\src\\main\\java\\com\\edu\\web",
+    "\\src\\main\\java\\com\\edu\\web\\spacecatsmarket",
+    "\\src\\main\\java\\com\\edu\\web\\spacecatsmarket\\web",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\com",
+    "\\src\\test\\java\\com\\edu",
+    "\\src\\test\\java\\com\\edu\\web",
+    "\\src\\test\\java\\com\\edu\\web\\spacecatsmarket"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\edu\\web\\spacecatsmarket\\web\\GlobalExceptionHandler.java",
+  "PreviewInSolutionExplorer": false
+}
